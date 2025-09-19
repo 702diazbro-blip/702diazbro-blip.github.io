@@ -52,9 +52,9 @@
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
-|      | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  |  |
-|      | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
-|      | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  |
+|  main  | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |when the ref blows the whisle fr the basketball game the match starts.  |  |
+|  material ap    | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` | its like an arena it provides a court, scoreboard. |  |
+|scaffold      | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |its like a basketball court Floor (background) = where the game happens.  | |
 |      | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
 |      | A widget that shows things side-by-side. | `Row(...)` |  |  |
 |      | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  |
